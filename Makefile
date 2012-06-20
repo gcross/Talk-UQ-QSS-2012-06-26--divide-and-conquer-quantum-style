@@ -105,4 +105,14 @@ SVD-6.pdf \
 SVD-7.pdf \
 SVD-8.pdf \
 SVD-9.pdf \
-SVD-10.pdf
+SVD-10.pdf \
+2D-01.pdf \
+2D-02.pdf \
+2D-03.pdf \
+2D-04.pdf \
+2D-05.pdf \
+2D-06.pdf \
+2D-07.pdf \
+2D-08.pdf \
+2D-09.pdf \
+2D-10.pdf \
