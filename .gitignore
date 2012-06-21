@@ -7,3 +7,5 @@
 *.snm
 *.toc
 *.swp
+.directory
+*.synctex.gz
