@@ -116,3 +116,7 @@ SVD-10.pdf \
 2D-08.pdf \
 2D-09.pdf \
 2D-10.pdf \
+formal_language_theory-01.pdf \
+formal_language_theory-02.pdf \
+formal_language_theory-03.pdf \
+
