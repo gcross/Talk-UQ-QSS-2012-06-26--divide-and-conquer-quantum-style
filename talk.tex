@@ -170,17 +170,17 @@ $$
 \section{Application}
 
 \subsection{Statics}
-\begin{frame}{Variational Approach}
+\begin{frame}{Variational Approach for Finding Ground States}
 
 \begin{enumerate}
 \pause
-\item Objective:  Find the lowest value of $\omega$ such that $\textbf{H}\cdot \vec{S} = \omega \vec{S}.$
+\item Objective:  Find the lowest eigenvalue of $\textbf{H}$, i.e. the lowest $E$ such that $\textbf{H}\cdot \vec{S} = E \vec{S}$ for some $\vec{S}.$
 \pause
 \item Equivalent to finding the state vector $\vec{S}$ to minimize the Rayleigh quotient $R(\vec{S}):=\frac{\vec{S}^*\cdot \textbf{H} \cdot \vec{S}}{\vec{S}^*\cdot \vec{S}}.$
 \pause
 \item Since we don't know $\vec{S}$ \emph{a priori}, make a guess with tunable parameters (an ``ansatz'') and vary these parameters to minimize $R(\vec{S}).$
 \pause
-\item The ``divide and conquer'' approach gives us an excellent ansatz for this purpose.
+\item The ``divide and conquer'' (i.e. matrix product state) approach gives us an excellent ansatz for this purpose.
 \pause
 \begin{enumerate}
 \item $R(\vec{S})$ can be evaluated efficiently.
