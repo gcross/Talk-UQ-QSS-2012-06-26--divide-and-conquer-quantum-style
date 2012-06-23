@@ -77,7 +77,6 @@ vary-3.pdf \
 vary-4.pdf \
 vary-5.pdf \
 vary-6.pdf \
-vary-7.pdf \
 proofitworks-1.pdf \
 proofitworks-2.pdf \
 proofitworks-3.pdf \
