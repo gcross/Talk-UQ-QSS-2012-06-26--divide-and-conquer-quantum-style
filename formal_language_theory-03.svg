@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docname="formal_language_theory-01.svg"
+   sodipodi:docname="formal_language_theory-03.svg"
    version="1.0"
    inkscape:version="0.48.2 r9819"
    sodipodi:version="0.32"
@@ -28,8 +28,8 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92866688"
-     inkscape:cx="315.62305"
+     inkscape:zoom="1.3133333"
+     inkscape:cx="341.89209"
      inkscape:cy="235.45115"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1256,7 +1256,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1352,45 +1352,6 @@
            id="path65230"
            d="M 69.1125,256.45 60,242.78125"
            style="fill:none;stroke:#030090;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.7486875,0,0,-0.7486875,54.427647,161.7462)"
-       id="g5752">
-      <path
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         id="path5754"
-         d="m 71.1125,208.33125 0,50.11875"
-         style="fill:none;stroke:#838383;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5756"
-         d="M 71.1125,258.45 80.225,244.78125"
-         style="fill:none;stroke:#838383;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#838383;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="M 71.1125,258.45 62,244.78125"
-         id="path5758" />
-      <g
-         id="g5760">
-        <path
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc"
-           id="path5762"
-           d="m 69.1125,206.33125 0,50.11875"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path5764"
-           d="M 69.1125,256.45 78.225,242.78125"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="M 69.1125,256.45 60,242.78125"
-           id="path5766" />
       </g>
     </g>
     <path
@@ -1501,7 +1462,7 @@
          y="240">Formal Languages</tspan></text>
     <g
        id="g12517"
-       transform="translate(10,0)">
+       transform="matrix(1,0,0,-1,10,760.97935)">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
@@ -1542,7 +1503,7 @@
     </g>
     <g
        id="g12508"
-       transform="translate(10,0)">
+       transform="matrix(1,0,0,-1,-18,591.51649)">
       <path
          style="fill:none;stroke:#618d60;stroke-width:2.99475002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 267.66869,315.7712 0,-37.52328"
@@ -1583,7 +1544,7 @@
     </g>
     <g
        id="g12526"
-       transform="translate(10,0)">
+       transform="matrix(1,0,0,-1,-18,591.51649)">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
