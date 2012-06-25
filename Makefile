@@ -83,7 +83,6 @@ proofitworks-3.pdf \
 proofitworks-4.pdf \
 proofitworks-5.pdf \
 proofitworks-6.pdf \
-proofitworks-7.pdf \
 timevolve-0.pdf \
 timevolve-1.pdf \
 timevolve-2.pdf \
