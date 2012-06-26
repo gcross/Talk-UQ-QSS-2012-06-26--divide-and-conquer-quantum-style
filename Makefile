@@ -119,4 +119,7 @@ SVD-13.pdf \
 formal_language_theory-01.pdf \
 formal_language_theory-02.pdf \
 formal_language_theory-03.pdf \
+weighted_languages.pdf \
+weighted_rational_operations.pdf \
+weighted_language_tree.pdf \
 
